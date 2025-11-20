@@ -1,0 +1,10 @@
+label: test
+institution: institution-de-test
+description: '4521'
+conditions: []
+conditions_generales: []
+profils:
+  - travailleur_independant
+  - lycee
+type: gratuite
+periodicite: mensuelle
