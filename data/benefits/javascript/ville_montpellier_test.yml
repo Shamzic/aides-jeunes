@@ -1,0 +1,11 @@
+label: test
+institution: ville_montpellier
+description: test
+conditions: []
+conditions_generales:
+  - 'age: 20'
+profils:
+  - mission_locale
+link: https://mes-aides.gouv.fr/
+type: valeur_fixe
+periodicite: ponctuelle
