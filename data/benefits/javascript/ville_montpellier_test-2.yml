@@ -1,0 +1,9 @@
+label: test-2
+institution: ville_montpellier
+description: testest
+conditions: []
+conditions_generales: []
+profils:
+  - college
+type: valeur_fixe
+periodicite: ponctuelle
