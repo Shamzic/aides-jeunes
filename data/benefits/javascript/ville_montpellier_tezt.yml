@@ -1,0 +1,12 @@
+label: tezt
+institution: ville_montpellier
+description: teztestet
+conditions: []
+conditions_generales:
+  - 'age: 20'
+profils:
+  - enseignement_superieur
+link: https://mes-aides.gouv.fr/
+teleservicePrefill: https://mes-aides.gouv.fr/
+type: valeur_fixe
+periodicite: ponctuelle
