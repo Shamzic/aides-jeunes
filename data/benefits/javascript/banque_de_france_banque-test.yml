@@ -1,0 +1,11 @@
+label: banque test
+institution: banque_de_france
+description: test de la banque
+conditions:
+  - testest
+conditions_generales:
+  - 'age: 20'
+profils: []
+link: www.google.fr
+type: valeur_fixe
+periodicite: mensuelle
