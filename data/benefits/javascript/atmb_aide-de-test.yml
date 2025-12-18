@@ -1,0 +1,19 @@
+label: aide de test
+institution: atmb
+description: Ceci est une description longue
+conditions:
+  - 'Autres conditions : test testestest'
+conditions_generales:
+  - 'age: 25-30 ans'
+profils:
+  - college
+  - lycee
+  - service_civique
+  - parent
+  - handicap
+link: https://mes-aides.gouv.fr/
+instructions: https://mes-aides.gouv.fr/
+form: https://mes-aides.gouv.fr/
+teleservicePrefill: https://mes-aides.gouv.fr/
+type: valeur_fixe
+periodicite: ponctuelle
