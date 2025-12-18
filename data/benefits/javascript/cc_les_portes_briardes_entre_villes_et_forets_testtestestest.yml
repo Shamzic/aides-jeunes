@@ -1,0 +1,11 @@
+label: testtestestest
+institution: cc_les_portes_briardes_entre_villes_et_forets
+description: test
+conditions: []
+conditions_generales:
+  - 'age: 20'
+profils:
+  - stagiaire
+link: https://mes-aides.gouv.fr/
+type: valeur_fixe
+periodicite: ponctuelle
