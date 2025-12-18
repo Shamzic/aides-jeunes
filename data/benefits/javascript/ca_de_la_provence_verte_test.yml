@@ -1,0 +1,12 @@
+label: test
+institution: ca_de_la_provence_verte
+description: test
+conditions: []
+conditions_generales:
+  - 'age: 20'
+profils:
+  - interimaire
+  - travailleur_independant
+link: https://mes-aides.gouv.fr/
+type: valeur_fixe
+periodicite: mensuelle
