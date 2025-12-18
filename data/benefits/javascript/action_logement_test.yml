@@ -1,0 +1,11 @@
+label: test
+institution: action_logement
+description: test
+conditions: []
+conditions_generales: []
+profils:
+  - college
+  - travailleur_independant
+link: https://mes-aides.gouv.fr/
+type: valeur_fixe
+periodicite: ponctuelle
