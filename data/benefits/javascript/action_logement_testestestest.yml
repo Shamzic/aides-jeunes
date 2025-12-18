@@ -1,0 +1,11 @@
+label: testestestest
+institution: action_logement
+description: testtest
+conditions: []
+conditions_generales:
+  - 'age: testest'
+profils:
+  - mission_locale
+link: https://mes-aides.gouv.fr/
+type: valeur_fixe
+periodicite: ponctuelle
