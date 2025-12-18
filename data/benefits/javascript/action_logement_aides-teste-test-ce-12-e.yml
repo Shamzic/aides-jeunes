@@ -1,0 +1,11 @@
+label: Aides testé test çe 12-E
+institution: action_logement
+description: Salut c'est cool ça va ?
+conditions: []
+conditions_generales:
+  - 'age: 25-30 ans'
+profils:
+  - college
+link: https://mes-aides.gouv.fr/
+type: valeur_fixe
+periodicite: mensuelle
