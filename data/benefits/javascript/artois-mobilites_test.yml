@@ -1,0 +1,12 @@
+label: test
+institution: artois-mobilites
+description: test
+conditions:
+  - test
+conditions_generales:
+  - 'age: 20'
+profils:
+  - college
+link: https://mes-aides.gouv.fr/
+type: valeur_fixe
+periodicite: ponctuelle
