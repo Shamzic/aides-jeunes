@@ -1,0 +1,10 @@
+label: yrdy
+institution: ville_montpellier
+description: yrdy
+conditions: []
+conditions_generales:
+  - 'age: 20'
+profils:
+  - college
+type: valeur_fixe
+periodicite: ponctuelle
