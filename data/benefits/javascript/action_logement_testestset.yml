@@ -1,0 +1,23 @@
+label: testestset
+institution: action_logement
+description: testesteste
+conditions:
+  - Ici il y a des conditions particulières que l'utilisateur peut inscrire
+conditions_generales:
+  - 'age: 25-30 ans'
+  - 'geographie: France'
+  - 'regime: régime général'
+  - 'quotientFamilial:  QF < 600'
+  - 'statutLogement: locataire'
+  - 'difficultesLogement: logement précaire'
+  - 'engagementBenevole: 50h/an de bénévolat'
+profils:
+  - college
+  - lycee
+  - travailleur_independant
+link: https://mes-aides.gouv.fr/
+instructions: https://mes-aides.gouv.fr/
+form: https://mes-aides.gouv.fr/
+teleservicePrefill: https://mes-aides.gouv.fr/
+type: valeur_fixe
+periodicite: a
