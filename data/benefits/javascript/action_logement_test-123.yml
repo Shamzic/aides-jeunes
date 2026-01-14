@@ -1,0 +1,11 @@
+label: test 123
+institution: action_logement
+description: fdsdfssdfdfsdfsdfdfs
+conditions: []
+conditions_generales:
+  - 'age: 20'
+profils:
+  - stagiaire
+link: https://mes-aides.gouv.fr/
+type: valeur_fixe
+periodicite: a
