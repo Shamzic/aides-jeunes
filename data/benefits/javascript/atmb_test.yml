@@ -1,0 +1,12 @@
+label: TEST
+institution: atmb
+description: blablabla
+conditions:
+  - Signer un contrat d'apprentissage
+conditions_generales: []
+profils:
+  - professionnalisation
+  - apprenti
+link: https://github.com/betagouv/aides-jeunes
+type: bool
+periodicite: annuelle
