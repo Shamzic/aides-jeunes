@@ -1,0 +1,12 @@
+label: aide de testfdsfsdfsdfsdfsdfsdfdsfdsfsddfsfsddfs
+institution: cc_coutance_mer_et_bocage
+description: dfsdfsfdsfsddfsdsfdsffsdfds
+conditions: []
+conditions_generales: []
+profils:
+  - independant
+  - chomeur
+  - apprenti
+link: https://github.com/betagouv/aides-jeunes
+type: bool
+periodicite: annuelle
