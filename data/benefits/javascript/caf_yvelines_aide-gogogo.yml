@@ -1,0 +1,11 @@
+label: aide gogogo
+institution: caf_yvelines
+description: dfgfgdfgdgfdsdfgs
+conditions: []
+conditions_generales: []
+profils:
+  - independant
+  - chomeur
+link: https://github.com/betagouv/aides-jeunes
+type: bool
+periodicite: mensuelle
