@@ -1,0 +1,5 @@
+name: institution test
+type: region
+code_insee: '123456787654324567'
+code_siren: '123454323456543'
+imgSrc: img/institutions/logo_institution-test.jpg
