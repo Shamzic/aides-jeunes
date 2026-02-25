@@ -1,0 +1,15 @@
+label: dcqdsc qsd qsd qds qsd qsd
+institution: intercommunalite_brive
+description: qds qdsqds
+conditions:
+  - sd qsd qsd qsd
+conditions_generales: []
+profils:
+  - collegien
+  - service_civique
+link: http://localhost:8080/contribuer
+instructions: http://localhost:8080/contribuer
+form: http://localhost:8080/contribuer
+teleservicePrefill: http://localhost:8080/contribuer
+type: bool
+periodicite: autre
