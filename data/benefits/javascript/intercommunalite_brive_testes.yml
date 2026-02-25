@@ -1,0 +1,14 @@
+label: testes
+institution: intercommunalite_brive
+description: testestestestest
+conditions:
+  - Test.
+conditions_generales: []
+profils:
+  - etudiant
+link: http://localhost:8080/contribuer
+instructions: http://localhost:8080/contribuer
+form: http://localhost:8080/contribuer
+teleservicePrefill: http://localhost:8080/contribuer
+type: bool
+periodicite: annuelle
