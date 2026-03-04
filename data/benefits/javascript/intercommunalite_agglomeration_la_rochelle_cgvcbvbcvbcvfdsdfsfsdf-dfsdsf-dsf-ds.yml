@@ -1,0 +1,12 @@
+label: cgvcbvbcvbcvfdsdfsfsdf dfsdsf dsf ds
+institution: intercommunalite_agglomeration_la_rochelle
+description: dfs dfs dsf
+conditions: []
+conditions_generales: []
+profils:
+  - independant
+  - professionnalisation
+link: http://localhost:8080/contribuer
+teleservicePrefill: http://localhost:8080/contribuer
+type: bool
+periodicite: ponctuelle
