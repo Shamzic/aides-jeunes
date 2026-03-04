@@ -1,0 +1,12 @@
+label: cgvcbvbcvbcv
+institution: intercommunalite_annemasse
+description: cbvbcvbcv
+conditions: []
+conditions_generales: []
+profils:
+  - collegien
+  - independant
+link: http://localhost:8080/contribuer
+teleservicePrefill: http://localhost:8080/contribuer
+type: bool
+periodicite: annuelle
