@@ -1,0 +1,18 @@
+label: dcqdsc qsd qsd qds qsd qsd
+institution: action_logement
+description: dfsdfsfsd dfs. sdf sdf sdf dsf
+conditions:
+  - dfs sdf dsf dsf .
+  - dfs ds ffds. dfsdfs dfs dfs dfs dfs .
+conditions_generales: []
+profils:
+  - etudiant
+  - stagiaire
+  - service_civique
+  - beneficiaire_rsa
+link: http://localhost:8080/contribuer
+instructions: http://localhost:8080/contribuer
+form: http://localhost:8080/contribuer
+teleservicePrefill: http://localhost:8080/contribuer
+type: bool
+periodicite: mensuelle
