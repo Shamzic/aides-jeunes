@@ -1,0 +1,13 @@
+label: cgvcbvbcvbcvfdsdfsfsdf dfsdsf dsf ds
+institution: intercommunalite_agglomeration_la_rochelle
+description: dfs
+conditions:
+  - TEST .
+conditions_generales: []
+profils: []
+link: http://localhost:8080/contribuer
+instructions: http://localhost:8080/contribuer
+form: http://localhost:8080/contribuer
+teleservice: http://localhost:8080/contribuer
+type: bool
+periodicite: mensuelle
